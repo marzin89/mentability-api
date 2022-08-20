@@ -1,0 +1,40 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MentabilityAPI
+build_property.RootNamespace = MentabilityAPI
+build_property.ProjectDir = C:\Users\Marco\Documents\Webbutveckling distans\Webbutveckling med .NET\moment4\Webbplats\backend\MentabilityAPI\MentabilityAPI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Marco\Documents\Webbutveckling distans\Webbutveckling med .NET\moment4\Webbplats\backend\MentabilityAPI\MentabilityAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/AdminActivity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY3Rpdml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/AdminActivity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY3Rpdml0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/AdminActivity/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY3Rpdml0eVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/AdminActivity/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY3Rpdml0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/AdminActivity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BY3Rpdml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marco/Documents/Webbutveckling distans/Webbutveckling med .NET/moment4/Webbplats/backend/MentabilityAPI/MentabilityAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
